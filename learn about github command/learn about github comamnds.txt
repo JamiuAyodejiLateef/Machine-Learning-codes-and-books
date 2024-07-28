@@ -1,0 +1,19 @@
+If you want to push a new folder to exiting repository 
+git status
+git add -A 
+git commit -m “comment”
+git push origin master
+
+
+If you want to push a new folder to  a new repository 
+Create a new repository on your github
+Go to the directory in your computer, right click and pick git bash here
+git add .
+git commit -m  “comment”
+git remove add origin git@github.com:”your git email’/title of repo.
+Press enter
+git push origin master
+
+
+If you want to link a new computer
+https://www.youtube.com/watch?v=xwlQimbwJJE
